@@ -14,6 +14,8 @@ I'm excited to introduce you to a highly efficient privilege escalation tool tha
 💡 How to Install & Run 💡
 
 pip install -r requirements.txt
+
+
 python Privilege.py
 
 
